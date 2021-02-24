@@ -1,4 +1,4 @@
-ef multiples_of_under(of , under):
+def multiples_of_under(of , under):
     L=[]
     for i in range(of,under,of):
         L.append(i)
